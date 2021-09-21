@@ -35,11 +35,13 @@
   <!-- Git Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
 </p>
-<div style="display: inline_block"><br>
+
+##
+
   </div>
 <a href="https://github.com/Gabri3lStumm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabri3lStumm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabri3lStumm&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabri3lStumm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
