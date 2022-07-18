@@ -1,6 +1,4 @@
 
-<img align="right" src="https://i.picasion.com/pic91/6e607a4896e68deb38a497d5f6403e13.gif" width="260" />
-
 <div align="center">
   
  <h1> 
